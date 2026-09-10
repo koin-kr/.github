@@ -7,7 +7,7 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 
 ## ✨ 주요 기능 (Features)
 
-- **K-Map**  
+- **K-Map** (Currently under development)  
   한국 방문 여행자를 위해 Insider들이 엄선한 필수 장소 정보 및 제휴 혜택 서비스 제공
 
 - **Kamera AI**  
@@ -35,7 +35,7 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 
 ---
 
-## 🚀 Releases
+# 🚀 Releases
 
 - 2025.9.5: 개발 시작
 - 2026.1.3: 내부 테스트 시작
@@ -43,11 +43,9 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 - 2026.4.1: Google Play Store 정식 출시 (v1.1.1)
 - 2026.4.23: App Store 정식 출시 (v2.0.0)
 
+- 2026.9.11: **v3.2.1 (Latest)**
+
   > See all update history in [CHANGELOG.md](../CHANGELOG.md)
-
-### Latest
-
-- 2026.9.11: v3.2.1
 
 # ⭐️ Checkout our latest release on...
 
