@@ -1,4 +1,4 @@
-# K-oin: makes you a Korea Insider
+# Koin: makes you a Korea Insider
 
 한국 생활을 처음 경험하는 **외국인 관광객과 유학생**을 위한 올인원 가이드 앱입니다.  
 A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에서 제공합니다.
@@ -45,6 +45,12 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 
   > See all update history in [CHANGELOG.md](../CHANGELOG.md)
 
-### Latest Release
+### Latest
 
 - 2026.9.11: v3.2.1
+
+# ⭐️ Checkout our latest release on...
+
+[App Store](https://apps.apple.com/kr/app/koin/id6760605411)
+
+[Play Store](https://play.google.com/store/apps/details?id=kr.koreainsider.koin)
