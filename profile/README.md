@@ -7,7 +7,7 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 
 ## ✨ 주요 기능 (Features)
 
-- **K-Map** (Currently under development)  
+- **K-Map**
   한국 방문 여행자를 위해 Insider들이 엄선한 필수 장소 정보 및 제휴 혜택 서비스 제공
 
 - **Kamera AI**  
