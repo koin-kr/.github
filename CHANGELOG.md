@@ -1,3 +1,39 @@
+## v3.3.1 Update (26/09/15)
+
+### en-US
+
+[What's Changed]
+
+- App stability and performance improvements
+
+### ko-KR
+
+[What's Changed]
+
+- 앱 안정성 및 성능 개선
+
+## v3.3.0 Update (26/09/14)
+
+### en-US
+
+[What's New]
+
+- K-Map
+
+[What's Changed]
+
+- Updated the bottom navigation bar design
+
+### ko-KR
+
+[What's New]
+
+- K-Map
+
+[What's Changed]
+
+- 하단 내비게이션 바 디자인 변경
+
 ## v3.2.1 Update (26/09/11)
 
 ### en-US
