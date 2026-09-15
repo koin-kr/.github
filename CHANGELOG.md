@@ -1,3 +1,21 @@
+## v3.3.2 Update (26/09/16)
+
+### en-US
+
+[What's Changed]
+
+- Added nationality selection options
+- App stability improvements
+- Minor UI changes and user experience improvements
+
+### ko-KR
+
+[What's Changed]
+
+- 국적 선택지 추가
+- 앱 안정성 개선
+- 일부 UI 수정 및 사용자 경험 개선
+
 ## v3.3.1 Update (26/09/15)
 
 ### en-US
