@@ -1,3 +1,25 @@
+## v3.3.3 Update (26/09/19)
+
+### en-US
+
+[What's New]
+
+- External map links provided by K-Map place managers
+
+[What's Changed]
+
+- Fixed missing or incorrect place details
+
+### ko-KR
+
+[What's New]
+
+- K-Map 장소 관리자가 등록한 외부 지도 링크 연결 지원
+
+[What's Changed]
+
+- 일부 장소의 상세 정보 오류 및 누락 문제 수정
+
 ## v3.3.2 Update (26/09/16)
 
 ### en-US

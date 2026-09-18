@@ -43,7 +43,7 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 - 2026.4.1: Google Play Store 정식 출시 (v1.1.1)
 - 2026.4.23: App Store 정식 출시 (v2.0.0)
 
-- 2026.9.16: **v3.3.2 (Latest)**
+- 2026.9.19: **v3.3.3 (Latest)**
 
   > See all update history in [CHANGELOG.md](../CHANGELOG.md)
 
