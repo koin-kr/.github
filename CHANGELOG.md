@@ -1,3 +1,30 @@
+## v3.4.0 Update (TBD)
+
+### en-US
+
+[What's New]
+
+- Store search and bookmarking
+
+[What's Changed]
+
+- Fixed content loading issue while scrolling
+- Fixed K-Map markers
+- Overall K-Map usability improvements
+
+### ko-KR
+
+[What's New]
+
+- K-Map 장소 북마크 기능 추가
+- 매장 검색 및 정렬 기능 추가
+
+[What's Changed]
+
+- 팔로잉 및 매장 목록의 다음 페이지를 불러오지 못하던 현상 수정
+- K-Map 매장 마커 개선
+- 사용성 개선 및 기타 버그 수정
+
 ## v3.3.3 Update (26/09/19)
 
 ### en-US
