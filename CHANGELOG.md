@@ -1,4 +1,36 @@
-## v3.4.0 Update (TBD)
+## v3.5.0 Update (26/10/12)
+
+### en-US
+
+[What's New]
+
+- Support for iOS 27 compatibility
+- Out-of-service region indicators on K-Map
+
+[What's Changed]
+
+- All-community latest posts feed
+- Featured curation content
+- Fixed an issue where the keyboard remained open after posting a comment
+- Fixed navigation bar ordering for guide images
+- General usability and bug fixes
+
+### ko-KR
+
+[What's New]
+
+- iOS 27 호환성 지원
+- K-Map 서비스 외 지역 표시 지원
+
+[What's Changed]
+
+- 커뮤니티 전체 최신글 목록 추가
+- 추천 큐레이션 콘텐츠 추가
+- 댓글 작성 후 키보드가 닫히지 않던 현상 수정
+- 가이드 이미지와 내비게이션 바의 정렬 문제 수정
+- 사용성 개선 및 기타 버그 수정
+
+## v3.4.0 Update (26/09/28)
 
 ### en-US
 
