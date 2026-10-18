@@ -1,3 +1,35 @@
+## v3.5.1 Update (26/10/19)
+
+### en-US
+
+[What's New]
+
+- Added a detailed product information view in K-Map
+- Added support for viewing enlarged profile images
+
+[What's Changed]
+
+- Improved real-time location tracking and revamped place tags in K-Map
+- Unified the pull-to-refresh UI and enhanced visual feedback
+- Improved image viewer usability for community posts and banners
+- Enhanced functionality for 'My Posts', 'Scraps', and 'Likes' lists
+- Fixed minor UI bugs and improved overall app stability
+
+### ko-KR
+
+[What's New]
+
+- K-Map 상품 상세 정보 보기 기능 추가
+- 프로필 이미지 확대 보기 지원
+
+[What's Changed]
+
+- K-Map 실시간 현위치 표시 개선 및 장소 태그 개편
+- 화면 새로고침 UI 통일 및 시각적 피드백 개선
+- 커뮤니티 게시글 및 배너의 이미지 뷰어 사용성 개선
+- 내가 작성한 글, 스크랩, 좋아요 내역 기능 개선
+- 기타 UI 버그 수정 및 앱 안정성 향상
+
 ## v3.5.0 Update (26/10/12)
 
 ### en-US
