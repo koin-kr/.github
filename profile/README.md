@@ -31,7 +31,7 @@ A부터 Z까지, 한국 생활에 필요한 정보와 커뮤니티를 한 곳에
 - Database: (전) 김민구
 - AI: 김지윤
 - PM: 양성혁
-- Tech Lead: 이지원
+- Lead Developer: 이지원
 
 ---
 
