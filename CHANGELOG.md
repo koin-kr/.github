@@ -1,3 +1,41 @@
+## v3.5.3 Update (26/11/09)
+
+### en-US
+
+[What's New]
+
+- Added support for Portuguese and Traditional Chinese
+
+[What's Changed]
+
+- Improved camera stability
+- Enhanced UI translation quality
+
+### ko-KR
+
+[What's New]
+
+- 지원 언어에 포르투갈어, 중국어(정체) 추가
+
+[What's Changed]
+
+- 카메라 기능 안정성 개선
+- UI 번역 품질 개선
+
+## v3.5.2 Update (26/10/26)
+
+### en-US
+
+[What's Changed]
+
+- Fixed minor UI bugs and improved app stability
+
+### ko-KR
+
+[What's Changed]
+
+- 일부 UI 버그 수정 및 앱 안정성 향상
+
 ## v3.5.1 Update (26/10/19)
 
 ### en-US
