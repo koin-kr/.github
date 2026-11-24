@@ -1,3 +1,35 @@
+## v3.6.0 Update (26/11/30)
+
+### en-US
+
+[What's New]
+
+- Store-exclusive coupons
+- Multi-language support and reviews on K-Map
+- 40 new nationalities available for user profiles
+- Text selection within posts
+
+[What's Changed]
+
+- Streamlined sign-up flow
+- Improved coupon UI and usability
+- Stability and performance improvements
+
+### ko-KR
+
+[What's New]
+
+- 매장 전용 쿠폰 기능 지원
+- K-Map 다국어 지원 및 리뷰 작성 기능 추가
+- 프로필 설정 시 선택 가능한 국적 40개국 추가
+- 게시글 내 텍스트 선택 기능 추가
+
+[What's Changed]
+
+- 회원가입 절차 개편
+- 쿠폰 UI 및 사용성 개선
+- 서비스 안정화 및 성능 개선
+
 ## v3.5.3 Update (26/11/09)
 
 ### en-US
